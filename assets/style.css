@@ -1,0 +1,8 @@
+body{background:#fef7e0;font-family:serif;margin:0;color:#3e2723;padding:0;word-break:break-word}
+img[src*="engines.gif"]{display:none;}
+img{max-width: 100%;display:block;}
+table{width:100%}
+font{color:#3e2723;line-height: 40px;}
+font[size="5"]{display:block;margin:30px 30px 50px 30px;}
+a{color:#1e6ad2}
+blockquote{margin:10px;font-size:15px;line-height:30px;text-indent:33px;text-align:justify;}
