@@ -1,8 +1,3 @@
-# flutter_inappwebview_example
+# Engines of Ingenuity Reader App
 
-Demonstrates how to use the flutter_inappwebview plugin.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+A Reader app using Flutter for parsing The Engines of ingenuity transcripts and transforming it into a readable format.
